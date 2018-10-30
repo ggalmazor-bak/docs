@@ -206,3 +206,6 @@ This document provides instructions on setting up ODK Aggregate using `Apache To
 
   - The micro instance is only free for 12 months from AWS sign-up, and that you may exceed the free quotas on disk space or network bandwidth before that point (`see <http://aws.amazon.com/free/>`_).
   - You may at some point need to upgrade your instance to a standard instance if the micro instance is not providing enough performance.
+  
+  
+Test
